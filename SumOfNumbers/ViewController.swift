@@ -15,6 +15,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    func sumOfNUmbers() {
+        let x = 10.0,y = 12.0
+        let z = x+y;
+        print("sum is \(z)")
+        
+    }
 }
 
