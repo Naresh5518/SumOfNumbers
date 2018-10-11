@@ -21,5 +21,12 @@ class ViewController: UIViewController {
         print("sum is \(z)")
         
     }
+    
+    func mulOfNumbers() {
+        let x = 10.0,y = 12.0
+        let z = x*y;
+        print("mul is \(z)")
+        
+    }
 }
 
