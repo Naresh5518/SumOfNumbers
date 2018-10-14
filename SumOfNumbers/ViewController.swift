@@ -28,5 +28,10 @@ class ViewController: UIViewController {
         print("mul is \(z)")
         
     }
+    
+    func division(){
+        
+        print("resut is 100")
+    }
 }
 
